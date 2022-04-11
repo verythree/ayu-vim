@@ -270,6 +270,7 @@ hi! link diffAdded String
 
 "}}}
 "
+" Failing in vim-8.2.4542+
 " Removed Mon Apr 11 15:15:32 2022 -0500 (MEP): {{{
 " let &background = s:style
 "
