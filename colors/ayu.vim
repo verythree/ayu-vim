@@ -270,8 +270,7 @@ hi! link diffAdded String
 
 "}}}
 "
-" This is needed for some reason: {{{
-
-let &background = s:style
-
+" Removed Mon Apr 11 15:15:32 2022 -0500 (MEP): {{{
+" let &background = s:style
+"
 " }}}
