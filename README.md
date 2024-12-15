@@ -1,6 +1,3 @@
-
-![ayu-vim](http://i.imgur.com/7vnF4Na.png)
-
 # Warning
 `ayu` is still in development and a lot of things need to be covered. Theme works only if VIM supports `termguicolors` option. This is true for [Neovim](https://neovim.io) and VIM from 7.4.1799.
 
